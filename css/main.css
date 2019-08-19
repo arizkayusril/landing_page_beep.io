@@ -217,6 +217,17 @@
           margin-left: 15%;
           margin-top: 10%
       }
+      /* Section2  */
+        #section2{
+            padding-top: 200px;
+        }
+        #section2 col{
+           
+        }
+        #phone2{
+            height: 726px;
+        }
+      /* end_Section2  */
     }
           /* end_jumbotron1 */
           
