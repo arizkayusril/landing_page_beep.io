@@ -271,6 +271,45 @@
 
 
       /* end_Section2  */
+      
+      /* section3 */
+      
+      #container3{
+        padding-top: 250px ;
+      }
+      #container3 h2{
+        margin: 100px 0 100px 0;
+      }
+      #container3 h2 span{
+        
+        color: #7A7C82;
+        font-family: 'Work Sans';
+        font-size: 18px;
+        font-weight: 300;
+        line-height: 24px;
+      }
+      #container3 h5 small{
+        
+        color: #A1A4AC;
+        font-family: 'Work Sans';
+        font-size: 14px;
+        font-weight: 300;
+        line-height: 24px;
+        width: 300px;
+        text-align: center;
+      }
+      .card{
+        border-radius: 20px;
+        height: 310px;
+        width: 330px;
+        margin-right: 50px;
+
+      }
+      .section3 img{
+        height:  160px; 
+        border-radius: 20px 20px 0 0;     
+      
+      }
         
    
     }
