@@ -221,8 +221,14 @@
       /* end_jumbotron1 */
 
       /* Section2  */
+      .section2{
+        background: url(../asset/bg2.png);
+        background-size: cover;
+        height: 1100px;
+      }
         #section2{
             padding-top: 200px;
+            
         }
         /* #section2 col{
            
@@ -273,12 +279,23 @@
       /* end_Section2  */
       
       /* section3 */
-      
+      .section3{
+        margin-left: 20px !important;
+        
+      }
       #container3{
         padding-top: 250px ;
       }
+      #tombol1 {
+        font-size: 14px;
+        background-color: transparent;
+        border-radius: 10px ;
+        border: 1px black;
+        box-shadow: 0 5px 30px 0 rgba(50, 54, 67, 0.2);
+      }
       #container3 h2{
         margin: 100px 0 100px 0;
+        text-align: center;
       }
       #container3 h2 span{
         
@@ -299,18 +316,25 @@
         text-align: center;
       }
       .card{
-        border-radius: 20px;
+        border-radius: 20px !important;
         height: 310px;
-        width: 330px;
-        margin-right: 50px;
-
+        
       }
       .section3 img{
         height:  160px; 
         border-radius: 20px 20px 0 0;     
       
       }
-        
+      
+      /*  */
+      /* slider */
+      
+      /* end-slider */
+      /* Footer */
+      
+      #sticky-footer {
+        flex-shrink: none;
+      }
    
     }
 
