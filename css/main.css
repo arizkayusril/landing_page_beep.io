@@ -325,17 +325,86 @@
         border-radius: 20px 20px 0 0;     
       
       }
-      
-      /*  */
-      /* slider */
-      
-      /* end-slider */
-      /* Footer */
-      
-      #sticky-footer {
-        flex-shrink: none;
+      .bg-oval1{
+        height: 400px;
+        width: 55px;
+        margin-top: -70px;
+        position: absolute;
       }
-   
+      /* section4 */
+      .section4{
+        margin-top: 200px;
+      }
+      .shape-control{
+        display: table-cell;
+        height: 60px !important;
+        width: 60px !important;
+        background-color: #1C1F28;
+        text-align: center;
+        vertical-align: middle;
+        box-shadow: 10px 20px 60px 0 rgba(0, 0, 0, 0.06);
+      }
+      .control-color{
+        background-color: #FFFFFF;
+      }
+      .section4 span{
+        color: #7A7C82;
+        font-family: 'Work Sans';
+        font-size: 18px;
+        font-weight: 300;
+        line-height: 24px;
+        margin: 60px 0px; 
+      }
+      .carousel-inner img{
+        height: 80px;
+      }
+      .carousel-inner .star {
+        top: 160px !important;
+        z-index: 2 !important;
+        position: absolute !important;
+       
+      }
+      .carousel-inner .far{
+        color: rgb(231, 181, 15);
+      }
+      .ident{
+        margin-left: 30px !important;
+        margin-bottom: 30px !important;  
+      }
+      
+
+      /* end-section4 */
+
+      /* section5 */
+      /* .section5{
+        background-image: url(../asset/bg3.png);
+        size: cover;
+        height: 600px;
+      } */
+      .get-apk{
+        border-top: 2px solid #14B45C;
+        margin-top: 20%;
+        padding: 50px 30px 10px 30px !important;
+        background-color: #FFFFFF;
+        height: 250px;
+        border-radius: 15px;
+        box-shadow: 10px 20px 60px 0 rgba(0, 0, 0, 0.16);
+      }
+      .get-apk img{
+        height: 40px;
+        margin-top: 10px;
+      }
+      .get-apk .play1{
+        margin-left: 265px;
+      }
+      .section5 p{
+        color: #A1A4AC;
+        font-family: 'Work Sans';
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 19px;
+      }
+      /* end-section5 */
     }
 
           
